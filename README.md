@@ -2,7 +2,7 @@
 
 there is a simple GUI program to scanning malicious software with signature-based detection method. you can run this program at Windows or Linux properly.
 
-this program uses two hash database, the first one we use malwarebazaar api and as backup we use [aaryanrlhonde's database] (https://github.com/aaryanrlondhe/Malware-Hash-Database) then we make all six file into one named database.txt. so you can run this program with internet (matching hashes with malwarebazaar api) or without (matching hashes with aaryanrlondhe's database)
+this program uses two hash database, the first one we use malwarebazaar api and as backup we use <a href="https://github.com/aaryanrlondhe/Malware-Hash-Database">aaryanrlhonde's database <a>  then we make all six file into one named database.txt. so you can run this program with internet (matching hashes with malwarebazaar api) or without (matching hashes with aaryanrlondhe's database)
 
 
 ## update:
