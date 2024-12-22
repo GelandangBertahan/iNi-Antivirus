@@ -85,7 +85,7 @@ class antivirusApp(QMainWindow):
         self.init_ui()
 
     def init_ui(self):
-        self.setWindowTitle("iNi Antivirus 2.0")
+        self.setWindowTitle("iNi Antivirus")
         self.setGeometry(200, 200, 600, 400)
 
         layout = QVBoxLayout()
