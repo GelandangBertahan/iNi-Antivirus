@@ -8,9 +8,11 @@ this program uses two hash database, the first one we use malwarebazaar api and 
 ## update:
 - auto delete file when detected as malware
 - simple gui
+  
 
 ## soon?
 - performance optimization
+- stop scanning without stop program
 - add other method (behavior and heuristic analysis)
 - give a choice to delete or quarantine malware
 - hmmm, any suggestion?
